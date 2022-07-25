@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\CLH\GITProject\bin\Debug\net5.0\GITProject.exe
+C:\Users\Owner\Desktop\CLH\GITProject\bin\Debug\net5.0\GITProject.deps.json
+C:\Users\Owner\Desktop\CLH\GITProject\bin\Debug\net5.0\GITProject.runtimeconfig.json
+C:\Users\Owner\Desktop\CLH\GITProject\bin\Debug\net5.0\GITProject.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\CLH\GITProject\bin\Debug\net5.0\GITProject.dll
+C:\Users\Owner\Desktop\CLH\GITProject\bin\Debug\net5.0\ref\GITProject.dll
+C:\Users\Owner\Desktop\CLH\GITProject\bin\Debug\net5.0\GITProject.pdb
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\GITProject.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\GITProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\GITProject.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\GITProject.AssemblyInfo.cs
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\GITProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\GITProject.dll
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\ref\GITProject.dll
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\GITProject.pdb
+C:\Users\Owner\Desktop\CLH\GITProject\obj\Debug\net5.0\GITProject.genruntimeconfig.cache
